@@ -36,5 +36,4 @@ Q2 c) Given that the transformation is from Decimal to Base62 any unique Decimal
 to five Decimal digits the maximum output before an overflow would occur is at f(99999) = HCF. Likewise, if the output only allows for three digits the maximum 
 output would occur at kkk. Converted back to Decimal kkk is equal to 238327 Decimal. Any input past 238327 would likely result in repeat outputs.
 
-Q2 d) Included in the repository in the Question_2 folder is the code used to verify and find the value of the Base62 digits. I downloaded the sample data as
-quiz.csv.
+Q2 d) Included in the repository in the Question_2 folder is the code used to verify and find the value of the Base62 digits. I downloaded the sample data as quiz.csv.
